@@ -1,0 +1,42 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color: hsl(30, 38%, 92%);
+    display: block;
+  }
+  .container {
+    display: block;
+    margin-top: 40px;
+    max-width: 600;
+    
+  }
+ .original-price {
+  text-decoration:line-through;
+  font-size: smaller;
+ }
+
+ .price {
+  font-size: 35px;
+  font-weight:bolder;
+  color:green;
+ }
+
+ button {
+  margin: 20px;
+  padding: 40px;
+  border-radius: 3px;
+  display:inline-flex;
+ }
+
+ img {
+  text-align: left;
+ }
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
